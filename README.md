@@ -1,1 +1,1 @@
-TESTE, NADA DE MAIS
+* aumentar fonte TESTE, NADA DE MAIS
