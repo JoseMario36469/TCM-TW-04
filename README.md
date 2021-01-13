@@ -17,7 +17,7 @@ Depois pode navegar pelo website da forma que pretender, pelos menus galeria, pa
 ### Group:
 Este grupo é composto por António Moura, Carlos Moreira e José Mário.
 
-## * C2 - User interface ( inserido nos documentos anexados)
+## * C2 - User interface ( inserido nos ficheiros anexados)
    -Sitemap e Sketchs
 
 ## * C3 - Product
@@ -39,8 +39,9 @@ Usamos um tipo de formulário simpes onde as pessoas possas dar a sua opinião s
 Para responder ao formulário basta colocar o seu nome, e-mail e a respetiva crítica construtiva, no fim é so clicar em enviar.
 Temos um erro pois quando se clica em “enviar” o website atualiza voltando ao bem vindo.
 
-### C3.5 HTML5 and CSS validation
-
+### C3.5 HTML5 and CSS validation ( inserido nos ficheiros anexados)
+- https://jigsaw.w3.org/css-validator/
+- https://validator.w3.org/
 ### C3.6 implementation details
 Alcançamos os objetivos mínimos pedidos pelo professor, pois estávamos a seguir o plano que o professor disponibilizou. Mesmo obedecendo aos critérios minimos tentamos que fosse um website interativo e onde as pessoas se sentissem vem ao navegar.
 Temos alguns erros por exemplo quando se clica no menu home e no logotipo do F.C.Porto o website leva-nos para o bem vindo o que se torna um pouco aborrecido.
