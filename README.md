@@ -1,6 +1,6 @@
 # Futebol Clube do Porto - Relatório
 
-## C1- Apresentação de projeto
+## * C1 - Apresentação de projeto
 ### Descrição
 O tema escolhido para o nosso trabalho de Tecnologias Web é Futebol Clube do Porto. Decidimos escolher este tema pela enorme quantidade de informação que a grandeza deste clube nos proporciona desde o seu início até aos dias de hoje. 
 Abordamos pontos desde a História do clube, passando pelos seus palmarés, galeria até aos mais diversos detalhes, como instalações e aos múltiplos desportos ligados a esta mesma instituição.
