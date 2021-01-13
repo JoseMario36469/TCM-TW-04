@@ -52,7 +52,7 @@ Como já dissemos é um site simples mas responsivo.
 
 
 ## * C4 - Presentation ( inserido nos ficheiros anexados)
-
+Relativamente à apresentação, o nosso grupo irá apresentar em formato Power point( este está disponivel nos ficheiros adicionados) onde neste iremos falar sobre o processo da criação deste website e onde iremos também fazer uma "visita guiada" pelo mesmo.
 ## Team
 António Moura, Carlos Moreira e José Mário
 
