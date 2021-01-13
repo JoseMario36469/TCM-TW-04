@@ -20,32 +20,6 @@ Este grupo é composto por António Moura, Carlos Moreira e José Mário.
 ## * C2 - User interface ( inserido nos documentos anexados)
    -Sitemap e Sketchs
 
-_Your sketch_
-
-| | |
-:---: | :---:
-![An alternative description](./s1.jpg) | ![An alternative description](image/s2.jpg)
-Always add a description to help the user understand the figure |  Always add a description to help the user understand the figure 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## * C3 - Product
 Website sobre o F.C.Porto com informação sobre palmarés, história e galeria.
 
