@@ -47,7 +47,7 @@ Para validar os documentos HTML e CSS utilizamos os seguintes websites:
 
 ### C3.6 implementation details
 Alcançamos os objetivos mínimos pedidos pelo professor, pois estávamos a seguir o plano que o professor disponibilizou. Mesmo obedecendo aos critérios minimos tentamos que fosse um website interativo e onde as pessoas se sentissem bem ao navegar.
-Temos alguns erros por exemplo quando se clica no menu home e no logotipo do F.C.Porto o website leva-nos para o bem vindo o que se torna um pouco aborrecido.
+Temos alguns erros por exemplo quando se clica no menu home e no logotipo do F.C.Porto o website leva-nos para o aviso inicial e por consequente para a página inicial o que se torna um pouco aborrecido. Outro detalhe a ter em conta é que quando se clica num dos icones de redes sociais na barra inferior ( instagram, facebook, twitter e youtube) é aberta a página selecionada do FCporto numa nova página, ou seja, em vez de abrir na página que estamos a navegar abre numa outra página. 
 Como já dissemos é um site simples mas responsivo.
 
 
