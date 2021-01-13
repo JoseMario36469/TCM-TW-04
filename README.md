@@ -24,7 +24,7 @@ _Your sketch_
 
 | | |
 :---: | :---:
-![An alternative description](image/se1.JPG) | ![An alternative description](images/image06.png)
+![An alternative description](Image/se1) | ![An alternative description](images/image06.png)
 Always add a description to help the user understand the figure |  Always add a description to help the user understand the figure 
 
 
