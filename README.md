@@ -40,8 +40,10 @@ Para responder ao formulário basta colocar o seu nome, e-mail e a respetiva cr�
 Temos um erro pois quando se clica em “enviar” o website atualiza voltando ao bem vindo.
 
 ### C3.5 HTML5 and CSS validation ( inserido nos ficheiros anexados)
+Para validar os documentos HTML e CSS utilizamos os seguintes websites:
 - https://jigsaw.w3.org/css-validator/
 - https://validator.w3.org/
+
 ### C3.6 implementation details
 Alcançamos os objetivos mínimos pedidos pelo professor, pois estávamos a seguir o plano que o professor disponibilizou. Mesmo obedecendo aos critérios minimos tentamos que fosse um website interativo e onde as pessoas se sentissem vem ao navegar.
 Temos alguns erros por exemplo quando se clica no menu home e no logotipo do F.C.Porto o website leva-nos para o bem vindo o que se torna um pouco aborrecido.
