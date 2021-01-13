@@ -1,4 +1,5 @@
 # Futebol Clube do Porto - Relatório
+Repositório criado para a apresentação de um projeto criado e desenvolvido na cadeira de Tecnologias da Comunição no Instituto Universitário da Maia.
 
 ## * C1 - Project presentation
 ### Description
@@ -12,6 +13,12 @@ O nosso website e composto por 4 páginas estáticas.
 Quando se entra no website depara-se com um script de boas vindas, necessitando de clicar em ok para conseguir aceder a informação que o site disponibiliza;
 Após depara-se com a página home no qual tem um pequeno formulário e um footer com hiperlink para as respetivas redes sociais;
 Depois pode navegar pelo website da forma que pretender, pelos menus galeria, palmarés e historial, podendo sempre voltar a página inicial se clicar em home ou no próprio logotipo do site.
+
+### Group:
+*António Moura
+*Carlos Moreira
+*José Mário
+
 
 ## * C2 - User interface ( inserido nos documentos anexados)
    -Sitemap e Sketchs
