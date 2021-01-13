@@ -15,10 +15,7 @@ Após depara-se com a página home no qual tem um pequeno formulário e um foote
 Depois pode navegar pelo website da forma que pretender, pelos menus galeria, palmarés e historial, podendo sempre voltar a página inicial se clicar em home ou no próprio logotipo do site.
 
 ### Group:
-*António Moura
-*Carlos Moreira
-*José Mário
-
+Este grupo é composto por António Moura, Carlos Moreira e José Mário.
 
 ## * C2 - User interface ( inserido nos documentos anexados)
    -Sitemap e Sketchs
