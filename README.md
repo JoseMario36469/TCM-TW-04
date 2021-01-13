@@ -13,4 +13,6 @@ Quando se entra no website depara-se com um script de boas vindas, necessitando 
 Após depara-se com a página home no qual tem um pequeno formulário e um footer com hiperlink para as respetivas redes sociais;
 Depois pode navegar pelo website da forma que pretender, pelos menus galeria, palmarés e historial, podendo sempre voltar a página inicial se clicar em home ou no próprio logotipo do site.
 
-## * C2 - User interface
+## * C2 - User interface ( inserido nos documentos anexados)
+-Sitemap
+-Sketchs
