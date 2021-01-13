@@ -18,3 +18,25 @@ Depois pode navegar pelo website da forma que pretender, pelos menus galeria, pa
 
 ## * C3 - Product
 Website sobre o F.C.Porto com informação sobre palmarés, história e galeria.
+
+### C3.1 instalation
+
+### C3.2 Usage
+Para navegar no website não é necessário criar conta .
+
+### C3.3 application / product help
+O website é simples, sendo fácil para qualquer pessoa navegar a vontade pelo mesmo.
+É atrativo e responsivo.
+
+### C3.4 Forms
+Usamos um tipo de formulário simpes onde as pessoas possas dar a sua opinião sobre o website e nós criadores do mesmo ficar-mos a saber em que podemos melhorar.
+Para responder ao formulário basta colocar o seu nome, e-mail e a respetiva crítica construtiva, no fim é so clicar em enviar.
+Temos um erro pois quando se clica em “enviar” o website atualiza voltando ao bem vindo.
+
+### C3.5 HTML5 and CSS validation
+
+### C3.6 implementation details
+Alcançamos os objetivos mínimos pedidos pelo professor, pois estávamos a seguir o plano que o professor disponibilizou.
+Temos alguns erros por exemplo quando se clica no menu home e no logotipo do F.C.Porto o website leva-nos para o bem vindo o que se torna um pouco aborrecido.
+Como já dissemos é um site simples mas responsivo.
+
