@@ -22,13 +22,14 @@ Este grupo é composto por António Moura, Carlos Moreira e José Mário.
 
 ## * C3 - Product
 Website sobre o F.C.Porto com informação sobre palmarés, história e galeria.
+Este é também um site simples e interativo.
 
 ### C3.1 instalation
 Para poder visitar o nosso website terá de passar primeiro no Github e fazer download do Zip com o nome - "Website-FCPORTO".
 Apôs baixar apenas terá de abrir o documento "index" na plataforma Google e o website está pronto a ser utilizado.
 
 ### C3.2 Usage
-Para navegar no website não é necessário criar conta.
+Para navegar no website não é necessário criar conta, basta baixar o documento inserido nos ficheiros a cima com o nome" Website-FCPORTO " e depois basta abrir o documento "index" e o website irá funcionar sem qualquer problema.
 
 ### C3.3 application / product help
 O website é simples, sendo fácil para qualquer pessoa navegar a vontade pelo mesmo. O nosso website foi criado baseado em duas cores comuns do clube, o azul e branco. Utilizamos também fotografias com boa qualidade e com boas cores para conseguir cativar a pessoa que o está a ver.
@@ -37,7 +38,7 @@ Este é atrativo pois qualquer pessoa que o queira visitar encontra logo tudo na
 ### C3.4 Forms
 Usamos um tipo de formulário simpes onde as pessoas possas dar a sua opinião sobre o website e nós criadores do mesmo ficar-mos a saber em que podemos melhorar.
 Para responder ao formulário basta colocar o seu nome, e-mail e a respetiva crítica construtiva, no fim é so clicar em enviar.
-Temos um erro pois quando se clica em “enviar” o website atualiza voltando ao bem vindo.
+Temos um erro pois quando se clica em “enviar” o website atualiza voltando à mensagem de boas vindas, e de seguida à página inicial.
 
 ### C3.5 HTML5 and CSS validation ( inserido nos ficheiros anexados)
 Para validar os documentos HTML e CSS utilizamos os seguintes websites:
@@ -45,7 +46,7 @@ Para validar os documentos HTML e CSS utilizamos os seguintes websites:
 - https://validator.w3.org/
 
 ### C3.6 implementation details
-Alcançamos os objetivos mínimos pedidos pelo professor, pois estávamos a seguir o plano que o professor disponibilizou. Mesmo obedecendo aos critérios minimos tentamos que fosse um website interativo e onde as pessoas se sentissem vem ao navegar.
+Alcançamos os objetivos mínimos pedidos pelo professor, pois estávamos a seguir o plano que o professor disponibilizou. Mesmo obedecendo aos critérios minimos tentamos que fosse um website interativo e onde as pessoas se sentissem bem ao navegar.
 Temos alguns erros por exemplo quando se clica no menu home e no logotipo do F.C.Porto o website leva-nos para o bem vindo o que se torna um pouco aborrecido.
 Como já dissemos é um site simples mas responsivo.
 
