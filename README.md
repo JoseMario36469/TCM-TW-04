@@ -15,3 +15,6 @@ Depois pode navegar pelo website da forma que pretender, pelos menus galeria, pa
 
 ## * C2 - User interface ( inserido nos documentos anexados)
    -Sitemap e Sketchs
+
+## * C3 - Product
+Website sobre o F.C.Porto com informação sobre palmarés, história e galeria.
