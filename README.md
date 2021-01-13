@@ -47,6 +47,8 @@ Alcançamos os objetivos mínimos pedidos pelo professor, pois estávamos a segu
 Temos alguns erros por exemplo quando se clica no menu home e no logotipo do F.C.Porto o website leva-nos para o bem vindo o que se torna um pouco aborrecido.
 Como já dissemos é um site simples mas responsivo.
 
+### C3.6 Implementation details
+
 ## * C4 - Presentation
 
 ## Team
